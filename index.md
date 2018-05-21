@@ -6,7 +6,7 @@ ClassIn ( classin.com ) is a rapidly-growing, venture-backed start-up company ba
 ### About the Job
 We are hiring a Content Marketing Specialist who will take ownership in bringing our blog (Facebook and LinkedIn's Main Page ) and content resources to the next level. 
 * Be responsible for marketing and sales contents across online, social media and offline platforms, from identifying topics, composing & editing articles to the final production of the contents
-* Development and management of weekly and monthly content calendars
+* Manage and develop weekly and monthly content calendars
 * Stay ahead of digital media technology and social network marketing to make recommendations on improving consumer experience and company’s investment on content marketing
 * Identify and manage content writers or agency to deliver content to targeted audience, build up a content hub for the business
 
