@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Content Marketing Specialist
 
-You can use the [editor on GitHub](https://github.com/classin/classin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Overview
+ClassIn ( classin.com ) is a rapidly-growing, venture-backed start-up company based in Beijing, China that develops an online virtual classroom and LMS system for the education industry. We are the largest online solution provider in China market. Today our solutions are deployed by 600+ leading national brands including TAL, New Oriental, EF, Udacity and Pearson. And now we are expanding our business abroad and we need you to make the history with us.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About the Job
+We need you to expand our business abroad together!
+ClassIn is hiring a Content Marketing Specialist who will take ownership in bringing our blog ( LinkedIn, Facebook and Youtube main page ) and content resources to the next level. You’ll be in charge of owning content production for the blog and our website resources, managing a content calendar, organizing webinars, building case studies and other content that highlights our customers, helping with video production, creating website copy and crafting eye- catching email nurture campaigns. The job will be irresistible to someone who loves to create content, is intellectually curious and intrigued by human behavior and organizational psychology, and is inspired by ClassIn's “ Empower Education Online” mission.
 
-### Markdown
+### Your day-to-day
+* Producing & helping coordinate content for all of marketing, including blogs,LinkedIn, webinars, landing pages, site copy, customer stories, case studies, emails and social media
+* Creating & managing a content production calendar
+* Relationship-building with industry thought leaders
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Should you apply?
+* Exceptional communication skills – you’re a sharp writer, and at ease initiating conversation both with your coworkers and external audiences
+* Track record of content production, with Wordpress, film/video, or anything in between
+* Natural curiosity and a desire to learn! This is an incredible opportunity to get your hands dirty and learn fast
+* Passion in education industry
+* It would be a plus if you are familar with the media in US or UK in education
+* Native English Speaker is a must
 
-```markdown
-Syntax highlighted code block
+### Location
+Based in Beijing, Part time job, 3-5 days per week
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/classin/classin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***Please send your CV to Phyllis.Zhang@eeoa.com***
