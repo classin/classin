@@ -20,6 +20,6 @@ We are hiring a Content Marketing Specialist who will take ownership in bringing
 * It would be a plus if your major is in education
 
 ### Location
-Based in Beijing
+This job is Based in Beijing
 
 ***Please send your CV to Phyllis.Zhang@eeoa.com***
