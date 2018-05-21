@@ -5,22 +5,21 @@ ClassIn ( classin.com ) is a rapidly-growing, venture-backed start-up company ba
 
 ### About the Job
 We need you to expand our business abroad together!
-ClassIn is hiring a Content Marketing Specialist who will take ownership in bringing our blog ( LinkedIn, Facebook and Youtube main page ) and content resources to the next level. You’ll be in charge of owning content production for the blog and our website resources, managing a content calendar, organizing webinars, building case studies and other content that highlights our customers, helping with video production, creating website copy and crafting eye- catching email nurture campaigns. The job will be irresistible to someone who loves to create content, is intellectually curious and intrigued by human behavior and organizational psychology, and is inspired by ClassIn's “ Empower Education Online” mission.
+ClassIn is hiring a Content Marketing Specialist who will take ownership in bringing our blog ( LinkedIn, Facebook and Youtube main page ) and content resources to the next level. You’ll be in charge of owning content production for the blog and our website resources, managing a content calendar, organizing webinars, building case studies and other content that highlights our customers.The job will be irresistible to someone who loves to create content, is intellectually curious and intrigued by human behavior and organizational psychology, and is inspired by ClassIn's “ Empower Education Online” mission.
 
 ### Your day-to-day
-* Producing & helping coordinate content for all of marketing, including blogs,LinkedIn, webinars, landing pages, site copy, customer stories, case studies, emails and social media
+* Producing & helping coordinate content for the marketing team, including landing pages, case studies and social medias.
 * Creating & managing a content production calendar
-* Relationship-building with industry thought leaders
 
 ### Should you apply?
-* Exceptional communication skills – you’re a sharp writer, and at ease initiating conversation both with your coworkers and external audiences
+* You’re a sharp writer and a good story teller
 * Track record of content production, with Wordpress, film/video, or anything in between
 * Natural curiosity and a desire to learn! This is an incredible opportunity to get your hands dirty and learn fast
 * Passion in education industry
-* It would be a plus if you are familar with the media in US or UK in education
+* It would be a plus if your major is in education
 * Native English Speaker is a must
 
 ### Location
-Based in Beijing, Part time job, 3-5 days per week
+Based in Beijing
 
 ***Please send your CV to Phyllis.Zhang@eeoa.com***
