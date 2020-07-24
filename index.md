@@ -1,7 +1,7 @@
 ## Content Marketing Specialist
 
 ### Company Profile
-ClassIn ( classin.com ) is a rapidly-growing, venture-backed start-up company based in Beijing, China that develops an online virtual classroom and LMS system for the education industry. We are the largest online solution provider in China market. Today our solutions are deployed by 5000+ leading national brands including TAL, New Oriental, EF, Udacity and Pearson in over 26 countries.
+ClassIn ( classin.com ) is a rapidly-growing, venture-backed start-up company based in Beijing, China that develops an online virtual classroom and LMS system for the education industry. We are the largest online solution provider in China market. Today our solutions are deployed by 20,000+ leading global brands including Pearson,Oxford University Press，Peking University,Qsinghua University in 35+ countries. ClassIn is 50K teachers and 12M students' choice.
 
 ### About the Job
 We are hiring a Content Marketing Specialist who will take ownership in bringing our blog (Medium and LinkedIn's Main Page ) and content resources to the next level for global market. 
