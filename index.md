@@ -21,3 +21,6 @@ We are hiring a Content Marketing Specialist who will take ownership in bringing
 This job is Based in Beijing
 
 ***Please send your CV to Phyllis.Zhang@eeoa.com***
+
+[海外广告投放经理](https://classin.github.io/classin/海外广告投放经理.md)
+[海外广告投放经理](海外广告投放经理.md)
