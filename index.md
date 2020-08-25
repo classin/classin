@@ -6,10 +6,10 @@ Top Education Brands' choice, some of the platform’s global partners include t
 ## Come ClassIn with us
 ### Current Openings
 
-- [Global Business Development Manager](globalbd.md) 📍*Beijing/Shanghai/London*
+- [Global Business Development Manager](globalbd.md) 📍*Beijing, Shanghai or London*
 
 - [Content Marketing Manager](ContentManager.md) 📍*Beijing*
 
-- [Country Manager for Vietnam](VN.md) 📍*Hanoi/HCMC*
+- [Country Manager for Vietnam](VN.md) 📍*Hanoi or HCMC*
 
-- [Global Channel Director](Channel.md) 📍*Beijing/Shanghai/London*
+- [Global Channel Director](Channel.md) 📍*Beijing, Shanghai or London*
