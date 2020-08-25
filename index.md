@@ -1,14 +1,13 @@
 ## Welcome to ClassIn 
-ClassIn was founded in 2014 in Beijing. Classin provides live-online classroom technology to higher education and K-12 institutions worldwide. Our software as a service (SaaS) 
-product currently has 3 million daily active users (DAU) and is used in 150+ countries. Well known in China and proven in the education sector our multi-feature live-online 
-classroom is fully integrated with Blackboard and is more cost effective than Zoom. 
+ClassIn was founded in 2014 in Beijing. Classin provides live-online classroom technology to higher education and K-12 institutions worldwide. 
+ClassIn has over 60,000 partner schools and institutions; 20 million monthly active users from 150+ countries; successfully delivered 200,000,000+ class hours. Some of the platform’s global partners include the Sony Global Education, the British Council, the Pearson Education, and the Oxford University Press, among others.
 
 ### Current Openings
 
-[Global Business Development Manager, *Based in Shanghai/Beijing/London*](globalbd.md)
+[1 Global Business Development Manager, *Based in Shanghai/Beijing/London*](globalbd.md)
 
-[Content Marketing Manager, *Based in Beijing*](ContentManager.md)
+[2 Content Marketing Manager, *Based in Beijing*](ContentManager.md)
 
-[Country Manager for Vietnam, *Based in Hanoi/HCMC*](VN.md)
+[3 Country Manager for Vietnam, *Based in Hanoi/HCMC*](VN.md)
 
-[Global Channel Director, *Based in Beijing/Shanghai/London*](Channel.md)
+[4 Global Channel Director, *Based in Beijing/Shanghai/London*](Channel.md)
