@@ -4,10 +4,10 @@ product currently has 3 million daily active users (DAU) and is used in 150+ cou
 classroom is fully integrated with Blackboard and is more cost effective than Zoom. 
 
 
-[Global Business Development Manager Based in Shanghai / Beijing / London](globalbd.md)
+[Global Business Development Manager, *Based in Shanghai/Beijing/London*](globalbd.md)
 
-[Content Marketing Manager Based in Beijing](ContentManager.md)
+[Content Marketing Manager, *Based in Beijing*](ContentManager.md)
 
-[Country Manager for Vietnam Based in Hanoi/HCMC](VN.md)
+[Country Manager for Vietnam, *Based in Hanoi/HCMC*](VN.md)
 
-[Global Channel Director Based in Beijing/Shanghai/London](Channel.md)
+[Global Channel Director, *Based in Beijing/Shanghai/London*](Channel.md)
