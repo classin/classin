@@ -10,6 +10,8 @@ Top Education Brands' choice, some of the platform’s global partners include t
 
 - [Content Marketing Manager](ContentManager.md) 📍*Beijing*
 
+- [Influener Marketing Manager](kol.md) 📍*Beijing*
+
 - [Country Manager for Vietnam](VN.md) 📍*Hanoi and HCMC*
 
 - [Global Channel Director](Channel.md) 📍*Beijing, Shanghai and London*
